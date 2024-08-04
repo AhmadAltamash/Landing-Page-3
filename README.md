@@ -35,7 +35,7 @@ Magma allows users to create a Digital Twin Token (DTT®) of their buildings. Th
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/magma.git
+    git clone https://ahmadaltamash.github.io/Landing-Page-3/
     cd magma
     ```
 
